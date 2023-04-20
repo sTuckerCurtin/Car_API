@@ -1,0 +1,1 @@
+select * from flask_cars.car;
